@@ -18,3 +18,6 @@ There are two types of Server
 - Test the server - `uv run fastmcp dev main.py`
 - Run the server -  `uv run fastmcp run main.py`
 - Add the server to Claude Desktop - `uv run fastmcp install claude-desktop main.py`
+
+
+
